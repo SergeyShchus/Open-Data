@@ -7,6 +7,7 @@
 
 - **Data Site**
     - [199it](http://hao.199it.com/)
+    - [world rivers](http://gaia.geosci.unc.edu/rivers/)
     - [Harvard Dataverse](https://dataverse.harvard.edu/)
     - [WorldPop](http://www.worldpop.org.uk/)
     - [NYC Open Data](https://nycopendata.socrata.com/)
