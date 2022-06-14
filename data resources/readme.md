@@ -37,3 +37,10 @@
 - **Lidar datasets**
     - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.092014.2871.1) - High-Resolution Topography Data and Tool
     - [sonomavegmap](https://sonomavegmap.org/) - Vegetation, Habitat & LIDAR Data for Sonoma County
+
+
+
+- **Water**
+    - [world rivers](http://gaia.geosci.unc.edu/rivers/)
+    - [world HydroBASINS](https://www.hydrosheds.org/products/hydrobasins)
+    - [world DATA - Naturalearthdata](https://www.naturalearthdata.com/downloads/10m-physical-vectors/)
