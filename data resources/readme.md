@@ -16,6 +16,7 @@
     - [Los Angeles GeoHub](http://geohub.lacity.org/)
     - [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
     - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
+    - [Vegetation - Global version](https://globalmaps.github.io/ptc.html)
     - [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
     - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
     - [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
