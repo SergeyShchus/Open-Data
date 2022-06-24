@@ -35,6 +35,8 @@
 
 - **Awesome Satellite Imagery Datasets**
     - [Awesome Satellite Imagery Datasets](https://github.com/SergeyShchus/awesome-satellite-imagery-datasets#awesome-satellite-imagery-datasets-) - List of aerial and satellite imagery datasets with annotations for computer vision and deep learning.
+    - [LeoLabs](https://platform.leolabs.space/visualizations/leo) - Satellites in real time
+![LeoLabs](https://github.com/SergeyShchus/OSM/blob/main/poster/earth_satellites.png?raw=true)
 
 - **Lidar datasets**
     - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.092014.2871.1) - High-Resolution Topography Data and Tool
