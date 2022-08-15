@@ -33,6 +33,7 @@
     - [UK - ONS Geography Linked Data Portal](https://statistics.data.gov.uk/home) - ONS Open Geography Portal.
     - [UK - Ordnance Survey Data Hub](https://osdatahub.os.uk/) - Get started for free and benefit from the power of location by incorporating Great Britain’s most comprehensive geographic data into your applications.
     - [World Health Organization (COVID-19)](https://covid19.who.int/data)
+    - [Australian Bureau of Statistics](https://www.abs.gov.au/)
 
 - **Awesome Satellite Imagery Datasets**
     - [Awesome Satellite Imagery Datasets](https://github.com/SergeyShchus/awesome-satellite-imagery-datasets#awesome-satellite-imagery-datasets-) - List of aerial and satellite imagery datasets with annotations for computer vision and deep learning.
