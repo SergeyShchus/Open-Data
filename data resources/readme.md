@@ -35,6 +35,7 @@
     - [World Health Organization (COVID-19)](https://covid19.who.int/data)
     - [Australian Bureau of Statistics](https://www.abs.gov.au/)
     - [National Agricultural Stat Service (USA)](https://nassgeodata.gmu.edu/CropScape/)
+    - [Open Aerial Map](https://openaerialmap.org/)
 
 - **Awesome Satellite Imagery Datasets**
     - [Awesome Satellite Imagery Datasets](https://github.com/SergeyShchus/awesome-satellite-imagery-datasets#awesome-satellite-imagery-datasets-) - List of aerial and satellite imagery datasets with annotations for computer vision and deep learning.
