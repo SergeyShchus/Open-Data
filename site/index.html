@@ -24,13 +24,10 @@
 }).addTo(map);
 
   // load GeoJSON from an external file
-fetch('https://github.com/SergeyShchus/OSM/blob/main/site/AMPLI.geojson')
-    .then(function (response){
-        return response.json();
-    })
-    .then(function(data){
-        L.geoJSON(data).addTo(map)
-    });
+  $.getJSON("map.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
 
   </script>
 </body>
