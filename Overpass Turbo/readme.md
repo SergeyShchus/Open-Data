@@ -10,7 +10,7 @@
 
 [Приклад - джерела на Боржаві](https://overpass-turbo.eu/s/1mxc)
 
-
+![Джерела на Боржаві](https://github.com/SergeyShchus/OSM/blob/main/Overpass%20Turbo/%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0%20%D0%91%D0%BE%D1%80%D0%B6%D0%B0%D0%B2%D0%B0.PNG?raw=true)
 
 
 [Опис - інструкція](https://mapsaregreat.com/geographic-data-mining-and-visualisation-for-beginners/overpass-turbo-tutorial.html)
