@@ -31,6 +31,7 @@
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
     - [openflights](https://openflights.org/data.html) - Flight data
     - [Geofabrik](http://download.geofabrik.de/)
+    - [Macrostrat](https://macrostrat.org/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
     - [UK - Open Geography Portal](https://geoportal.statistics.gov.uk/) - The Open Geography portal from the Office for National Statistics (ONS) provides free and open access to the definitive source of geographic products, web applications, story maps, services and APIs.
     - [UK - ONS Geography Linked Data Portal](https://statistics.data.gov.uk/home) - ONS Open Geography Portal.
