@@ -70,3 +70,14 @@
     
 - **DEM**
     - [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation)
+
+
+
+**Mappe Online**
+
+|[**Google - Maps**](https://www.google.com/maps/)|[**Yandex - Maps**](https://yandex.com/maps/)|[**Bing - Maps**](https://www.bing.com/maps)|[**DUAL - Maps**](http://data.mashedworld.com/dualmaps/map.htm?lat=37.791504&lng=-122.390246&z=18&slat=37.791434&slng=-122.390303&sh=33.021&sp=0&sz=1&gm=0&panel=msbi&mi=1&be=0&pv=1&pc=1)|[**FLICKR - MAPS**](https://www.flickr.com/map/)|
+| :--- | :--- | :--- | :--- | :--- |
+|[**WEGO.HERE - Maps**](https://wego.here.com/?x=ep&map=49.84958,9.95503,10,normal)|[**GOKML - Maps**](http://gokml.net/maps)|[**National Geographic - Maps**](https://www.nationalgeographic.com/maps/)|[**MapQuest**](https://www.mapquest.com/)|[**The True Size**](https://www.thetruesize.com)|
+|[**University of Texas Libraries - Maps**](https://maps.lib.utexas.edu/maps/index.html)|[**Scribble - Maps**](https://www.scribblemaps.com/create#/)|[**OECD - Maps**](https://www.oecd.org/swac/maps/)|[**LABNOL - Maps**](https://www.labnol.org/maps/location/)|[**KAKAO - Maps**](https://map.kakao.com/)|
+|[**BAIDU - Maps**](https://map.baidu.com/@11590057.96,4489812.75,4z)|[**Search Descartes Labs**](https://search.descarteslabs.com/)|[**Ricerca rapida per geolocalizzazione**](https://cipher387.github.io/quickgeolocationsearch/)|||
+
