@@ -15,6 +15,7 @@
     - [world DATA - Naturalearthdata](https://www.naturalearthdata.com/downloads/10m-physical-vectors/)
     - [Harvard Dataverse](https://dataverse.harvard.edu/)
     - [WorldPop](http://www.worldpop.org.uk/)
+    - [Geonames](https://www.geonames.org/countries/AF/afghanistan.html)
     - [NYC Open Data](https://nycopendata.socrata.com/)
     - [Los Angeles GeoHub](http://geohub.lacity.org/)
     - [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
