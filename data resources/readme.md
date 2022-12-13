@@ -56,6 +56,8 @@
     -[List satellite free resourses](https://gisgeography.com/free-satellite-imagery-data-list/)
     
     -[25 Satellite Maps To See Earth in New Ways](https://gisgeography.com/satellite-maps/)
+    
+    -[SOAR](https://soar.earth/) - Satellites and maps (Digital atlas)
 
 - **Lidar datasets**
     - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.092014.2871.1) - High-Resolution Topography Data and Tool
