@@ -49,6 +49,10 @@
     - [LeoLabs](https://platform.leolabs.space/visualizations/leo) - Satellites in real time
 ![LeoLabs](https://github.com/SergeyShchus/OSM/blob/main/poster/earth_satellites.png?raw=true)
 
+    - [SATFLARE](http://www.satflare.com/track.asp?q=40697#TOP) - Satellites in real time
+
+    - [n2yo.com](https://www.n2yo.com/?s=40697) - Satellites in real time
+    
     - [СapellaІpace](https://www.capellaspace.com/gallery/) - SAR Open Data Gallery
     
     - [Worldwidetelescope](https://worldwidetelescope.org/webclient/) - The biggest teleskope of the world
