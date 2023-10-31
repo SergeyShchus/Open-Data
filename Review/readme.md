@@ -1,0 +1,2 @@
+- [Cloud Optimized GeoTIFF (COG) Explorer](https://geotiffjs.github.io/cog-explorer/#long=-63.051&lat=18.028&zoom=15&scene=https://oin-hotosm.s3.amazonaws.com/59c66c5223c8440011d7b1e4/0/7ad397c0-bba2-4f98-a08a-931ec3a6e943.tif&bands=&pipeline=)
+- 
