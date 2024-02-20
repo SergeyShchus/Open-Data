@@ -65,6 +65,8 @@
     
     -[SOAR](https://soar.earth/) - Satellites and maps (Digital atlas)
 
+   -[SATLAS](https://satlas.allen.ai/map) - Satellites (Digital atlas)
+
 - **Lidar datasets**
     - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.092014.2871.1) - High-Resolution Topography Data and Tool
     - [sonomavegmap](https://sonomavegmap.org/) - Vegetation, Habitat & LIDAR Data for Sonoma County
